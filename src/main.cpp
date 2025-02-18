@@ -7,5 +7,6 @@ int main() {
 
 	std::cout << plus(a, b) << std::endl;
 	std::cout << minus(a, b) << std::endl;
+	std::cout << mul(a, b) << std::endl;
 	
 }
