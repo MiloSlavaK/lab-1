@@ -19,3 +19,5 @@ git add .
 git commit -m "fix: Update main output message in main branch"
 - третий коммит
 9. git merge featureutils - слияние веток
+10. возник конфликт в src/main.cpp
+11. решим его и сольем ветки
