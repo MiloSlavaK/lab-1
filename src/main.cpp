@@ -7,5 +7,7 @@ int main() {
 
 	std::cout << plus(a, b) << std::endl;
 	std::cout << minus(a, b) << std::endl;
+	std::cout << "Hello, world!" << std::endl;
+
 	
 }
