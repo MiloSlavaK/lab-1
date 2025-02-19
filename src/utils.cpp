@@ -7,3 +7,7 @@ int plus(int a, int b) {
 int minus(int a, int b) {
     return a - b;
 }
+
+int mult(int a, int b) {
+    return a * b;
+}
